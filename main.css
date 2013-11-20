@@ -165,7 +165,7 @@ line-height: 16px;
 	margin-top: -10px;
 	z-index: 2; 
 }  
-.productName {
+span .productName {
 	text-decoration: underline;
 	color: #404093;
 }	
