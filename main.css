@@ -1,0 +1,172 @@
+
+body {
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+	font-size: 12px;
+	color: #222;
+	text-align: center;
+}
+div#centerContainer{
+	width: 960px;
+	margin: 0 auto;
+	overflow: hidden;
+	display: block;
+}
+img#logo {
+	margin-top:30px;
+}
+a {
+	text-decoration:none;
+	color: #222;
+}
+h1 {	
+	font-family: "CrimsonSemibold", "Times New Roman", Georgia, serif;
+	font-weight: 500;
+	font-style: normal;
+	font-size: 58px;
+	color: #232323;
+	margin:10px;
+	}
+h3 {	
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+	font-weight: bold;
+	font-size:21px;
+	color:#369;
+	text-decoration: underline;
+	}
+h4{
+font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+	font-size:14px;
+	color:#cc0000;
+}
+h5{
+	font-family: "CrimsonSemibold", "Times New Roman", Georgia, serif;
+	font-size: 20px;
+	font-weight: 500;
+	color: #222;
+	margin:10px;
+}
+
+/**************** Menu Section **********/
+
+div#header{
+	text-align: right;
+	margin-top: 30px;
+	margin-right: 40px;
+}
+#navBar li {
+	display: inline;
+	padding: 5px 10px;
+
+}
+li a{	
+	color:#369;
+	}
+li a:hover{
+	color: #6699cc;
+	}
+#date{
+	float:left;
+	color:#999;
+}
+#signIn{
+	color:#18afe0;
+}
+
+/**************** product Section **********/
+.headingHidden {
+	display: none;
+}
+
+
+#defaultHeading h1 {
+	font-size: 51px; 
+	margin: 0 auto;
+}
+#defaultHeading h2 {
+	font-size: 19px;
+	margin: 20px auto;
+}
+div.oneThirdBox {
+	width:160px;
+	height: 216px;
+	float: left;
+	background: linear-gradient(#fff, #eee);
+	border: solid 1px #e8e8e8;
+	border-radius: 5px;
+	padding: 20px;
+	margin-top:10px;
+	margin-right: 20px;
+	margin-left: 20px;
+	box-shadow: 0 0 5px #efefef;
+	}
+div#left{
+	margin-left: 150px;
+}
+div.oneThirdBox p{
+color: #222;
+font-size: 14px;
+font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+line-height: 16px;
+}
+
+/**************** Hidden Heading Section **********/
+#basecampHeading h1 {
+	font-size: 42px;
+	width: 900px;
+	margin: 0 auto;
+}
+#basecampHeading p {
+	font-size: 15px;
+	width: 850px;
+	margin: 15px auto;
+	line-height: 20px;
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana;
+}
+#basecampArrow {
+	position: absolute;
+	margin-left: -185px;
+	margin-top: -10px;
+	z-index: 2; 
+}
+
+#highriseHeading h1 {
+	font-size: 42px;
+	width: 850px;
+	margin: 0 auto;
+}
+#highriseHeading p {
+	font-size: 15px;
+	width: 800px;
+	margin: 15px auto;
+	line-height: 20px;
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana;
+}
+#highriseArrow {
+	position: absolute; 
+	margin-left: 40px;
+	margin-top: -10px;
+	z-index: 2;
+}
+
+#campfireHeading h1 {
+	font-size: 42px;
+	width: 850px;
+	margin: 0 auto;
+}
+#campfireHeading p {
+	font-size: 15px;
+	width: 825px;
+	margin: 15px auto;
+	line-height: 20px;
+	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana;
+}
+#campfireArrow {
+	position: absolute; 
+	margin-left: 115px;
+	margin-top: -10px;
+	z-index: 2; 
+}  
+.productName {
+	text-decoration: underline;
+	color: #404093;
+}	
