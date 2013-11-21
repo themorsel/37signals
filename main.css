@@ -74,7 +74,6 @@ li a:hover{
 /**************** product Section **********/
 .hidden {
 	display: none;
-	height:151px;
 }
 
 
@@ -110,6 +109,9 @@ line-height: 16px;
 }
 
 /**************** Hidden Heading Section **********/
+.heading{
+	height:151px;
+}
 .heading h1 {
 	font-size: 42px;
 	width: 825px;
