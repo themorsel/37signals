@@ -109,12 +109,12 @@ line-height: 16px;
 }
 
 /**************** Hidden Heading Section **********/
-#basecampHeading h1 {
+#bcHeading h1 {
 	font-size: 42px;
 	width: 900px;
 	margin: 0 auto;
 }
-#basecampHeading p {
+#bcHeading p {
 	font-size: 15px;
 	width: 850px;
 	margin: 15px auto;
@@ -128,12 +128,12 @@ line-height: 16px;
 	z-index: 2; 
 }
 
-#highriseHeading h1 {
+#hrHeading h1 {
 	font-size: 42px;
 	width: 850px;
 	margin: 0 auto;
 }
-#highriseHeading p {
+#hrHeading p {
 	font-size: 15px;
 	width: 800px;
 	margin: 15px auto;
@@ -147,12 +147,12 @@ line-height: 16px;
 	z-index: 2;
 }
 
-#campfireHeading h1 {
+#cfHeading h1 {
 	font-size: 42px;
 	width: 850px;
 	margin: 0 auto;
 }
-#campfireHeading p {
+#cfHeading p {
 	font-size: 15px;
 	width: 825px;
 	margin: 15px auto;
