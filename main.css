@@ -111,12 +111,12 @@ line-height: 16px;
 /**************** Hidden Heading Section **********/
 #bcHeading h1 {
 	font-size: 42px;
-	width: 900px;
+	width: 825px;
 	margin: 0 auto;
 }
 #bcHeading p {
 	font-size: 15px;
-	width: 850px;
+	width: 800px;
 	margin: 15px auto;
 	line-height: 20px;
 	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana;
@@ -130,7 +130,7 @@ line-height: 16px;
 
 #hrHeading h1 {
 	font-size: 42px;
-	width: 850px;
+	width: 825px;
 	margin: 0 auto;
 }
 #hrHeading p {
@@ -149,12 +149,12 @@ line-height: 16px;
 
 #cfHeading h1 {
 	font-size: 42px;
-	width: 850px;
+	width: 825px;
 	margin: 0 auto;
 }
 #cfHeading p {
 	font-size: 15px;
-	width: 825px;
+	width: 800px;
 	margin: 15px auto;
 	line-height: 20px;
 	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana;
