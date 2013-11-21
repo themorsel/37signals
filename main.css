@@ -73,7 +73,8 @@ li a:hover{
 
 /**************** product Section **********/
 .hidden {
-	display: none;
+	display: none
+	height:151px;
 }
 
 
