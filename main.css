@@ -109,6 +109,9 @@ line-height: 16px;
 }
 
 /**************** Hidden Heading Section **********/
+.heading{
+	height:151px;
+}
 
 .heading h1 {
 	font-size: 42px;
