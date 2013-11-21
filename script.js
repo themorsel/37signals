@@ -1,14 +1,14 @@
 $(document).ready(function() {
 	$('#basecamp').hover(function() {
 		$('#defaultHeading').toggleClass('hidden');
-		$('#basecampHeading').toggleClass('hidden');
+		$('#bcHeading').toggleClass('hidden');
 	});	
 	$('#highrise').hover(function() {
 		$('#defaultHeading').toggleClass('hidden');
-		$('#highriseHeading').toggleClass('hidden');
+		$('#hrHeading').toggleClass('hidden');
 	});	
 	$('#campfire').hover(function() {
 		$('#defaultHeading').toggleClass('hidden');
-		$('#campfireHeading').toggleClass('hidden');
+		$('#cfHeading').toggleClass('hidden');
 	});	
 });
