@@ -109,12 +109,12 @@ line-height: 16px;
 }
 
 /**************** Hidden Heading Section **********/
-#bcHeading h1 {
+#altHeading h1 {
 	font-size: 42px;
 	width: 825px;
 	margin: 0 auto;
 }
-#bcHeading p {
+#altHeading p {
 	font-size: 15px;
 	width: 800px;
 	margin: 11px auto;
@@ -127,19 +127,6 @@ line-height: 16px;
 	margin-top: -10px;
 	z-index: 2; 
 }
-
-#hrHeading h1 {
-	font-size: 42px;
-	width: 825px;
-	margin: 0 auto;
-}
-#hrHeading p {
-	font-size: 15px;
-	width: 800px;
-	margin: 11px auto;
-	line-height: 20px;
-	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana;
-}
 #highriseArrow {
 	position: absolute; 
 	margin-left: 40px;
@@ -147,18 +134,6 @@ line-height: 16px;
 	z-index: 2;
 }
 
-#cfHeading h1 {
-	font-size: 42px;
-	width: 825px;
-	margin: 0 auto;
-}
-#cfHeading p {
-	font-size: 15px;
-	width: 800px;
-	margin: 11px auto;
-	line-height: 20px;
-	font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana;
-}
 #campfireArrow {
 	position: absolute; 
 	margin-left: 115px;
